@@ -12,9 +12,15 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "react": "16.8.3",
-    "react-dom": "16.8.3",
-    "react-scripts": "2.1.5"
+    "bootstrap": "^5.0.1",
+    "lottie-react": "^2.1.0",
+    "lottie-web": "^5.7.8",
+    "md5": "^2.3.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^2.1.5",
+    "sweetalert2": "^11.0.9"
   },
   "devDependencies": {
     "faker": "^4.1.0",

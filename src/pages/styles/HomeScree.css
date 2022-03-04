@@ -1,0 +1,17 @@
+.Home__container {  
+  margin: auto;
+  /* background-color: rgb(11, 27, 36); */
+  background: url('../../images/stars.svg'), #1B1B25;
+  min-height: calc(100vh - 52px);
+}
+
+.Home__content {
+  display: flex;
+  justify-content: center;
+  padding-top: 10%;
+  align-items: baseline;
+}
+
+.Home__container-text {
+  color: white;
+}

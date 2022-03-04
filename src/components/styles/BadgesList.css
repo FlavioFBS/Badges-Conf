@@ -1,0 +1,21 @@
+.BadgesList__container {
+  display: flex;
+  margin: 15px;
+  justify-content: flex-start;
+  padding: 15px;
+  /* border: 1px solid #1B1B25; */
+  border-radius: 20px;
+  background-color: white;
+  width: 100%;
+  box-shadow: white;
+  flex: 1;
+}
+.BadgesList__container-avatar {
+  border-radius: 50%;
+}
+.BadgesList__text-container {
+  margin-left: 15px;
+}
+/* .BadgesList__container-list {
+  display: flex;
+} */
